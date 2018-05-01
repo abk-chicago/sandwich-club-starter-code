@@ -15,6 +15,7 @@ public class Sandwich {
      * No args constructor for use in serialization
      */
     public Sandwich() {
+
     }
 
     public Sandwich(String mainName, List<String> alsoKnownAs, String placeOfOrigin, String description, String image, List<String> ingredients) {
